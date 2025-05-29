@@ -1,4 +1,4 @@
 # CNP45-ABHD14B
 An SGC Chemistry Networks Project focussed on finding a probe for ABHD14B.
 
-For the science background, head to the [wiki] (https://github.com/StructuralGenomicsConsortium/CNP45-ABHD14B/wiki).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP45-ABHD14B/wiki).
